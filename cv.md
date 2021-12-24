@@ -11,6 +11,7 @@ Pavel Lisenkov (@pavel8lisenkov)
 
 ## About me
 I am 28 years old, now I work as a health safety engineer. I think that my job lead me to stagnation. I really need in activities where I can develop during my life. That is why I`m here. My goal is to gain knowledge in the field of front-end development. In the future I would like to find a job or a paid internship as a Frontend Developer.
+
 ## Skills
 * Figma
 * HTML

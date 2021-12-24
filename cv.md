@@ -20,10 +20,12 @@ I am 28 years old, now I work as a health safety engineer. I think that my job l
 * GitHub
 
 ## Code example
+```
     function reverse(n) {
       let num = Math.abs(n) + "";
       return num.split("").reverse().join("");
     }
+```    
 
 ## Projects
 1. [Wildlife](https://rolling-scopes-school.github.io/pavel8lisenkov-JSFE2021Q1/wildlife/)
